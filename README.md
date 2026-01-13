@@ -25,6 +25,8 @@ The flagship personas in this collection are **Alex and Marcus Chen**, brothers 
 
 | Persona | Domain | File |
 |---------|--------|------|
+|---------|--------|------|
+| Beverly Sanders | Persona Architect - Use for generating other Personas | [beverly-sanders-persona-architect](./beverly-sanders-persona-architect.md) |
 | Alex Chen | Systems Architecture / Backend / Infrastructure | [alex-chen-systems-architect.md](./alex-chen-systems-architect.md) |
 | Marcus Chen | Frontend / React Dashboard Optimization | [marcus-chen-frontend-architect.md](./marcus-chen-frontend-architect.md) |
 
