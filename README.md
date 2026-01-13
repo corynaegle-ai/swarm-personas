@@ -10,17 +10,6 @@ LLMs perform significantly better when given specific personas with credentials,
 - Ensure consistent expertise across Swarm worker agents
 - Provide domain-specific mental models and frameworks
 
-## The Chen Brothers
-
-The flagship personas in this collection are **Alex and Marcus Chen**, brothers with complementary skills who together cover the full stack:
-
-| Brother | Domain | Strength |
-|---------|--------|----------|
-| **Alex Chen** | Backend/Infrastructure | Distributed systems, databases, security, DevOps |
-| **Marcus Chen** | Frontend/UI | React performance, real-time dashboards, WebSocket optimization |
-
-*They frequently collaborate on full-stack projects, with Alex designing robust backend systems while Marcus ensures the frontend is performant and user-friendly.*
-
 ## Persona Catalog
 
 | Persona | Domain | File |
